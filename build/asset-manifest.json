@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/antmediaassesment/static/css/main.915ea7af.css",
+    "main.js": "/github.io/antmediaassesment/static/js/main.edde0186.js",
+    "static/media/1.png": "/github.io/antmediaassesment/static/media/1.4af5fd34fe6e8f5d0684.png",
+    "index.html": "/github.io/antmediaassesment/index.html",
+    "main.915ea7af.css.map": "/github.io/antmediaassesment/static/css/main.915ea7af.css.map",
+    "main.edde0186.js.map": "/github.io/antmediaassesment/static/js/main.edde0186.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.915ea7af.css",
+    "static/js/main.edde0186.js"
+  ]
+}
